@@ -1,5 +1,5 @@
 ## MNIST数据集异步模式运行（计算图之间分布式）
-```
+```python
 # -*- coding: utf-8 -*-
 
 import time
